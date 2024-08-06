@@ -4,9 +4,12 @@ This repository contains a Python script to backtest a custom investment strateg
 
 ## Purpose
 
-The purpose of this project is to simulate and compare the performance of two investment strategies over a 10-year period:
-1. A custom strategy that invests $10 or $20 daily based on market conditions.
-2. A simple strategy that invests $10 daily regardless of market conditions.
+The purpose of this project is to simulate and compare the performance of two different investment strategies over a 10-year period using historical data of the S&P 500:
+1. **Custom Strategy:** This strategy invests $10 daily if the market goes up or drops by less than 0.5%. If the market drops by 0.5% or more, it invests $20.
+2. **Simple Strategy:** This strategy consistently invests $10 daily regardless of market conditions.
+
+By backtesting these strategies, we aim to analyze their performance, total returns, and growth over time to determine which strategy yields better results.
+
 
 ## Data Source
 
