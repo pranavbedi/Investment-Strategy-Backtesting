@@ -53,7 +53,7 @@ The script will output a plot comparing the portfolio values of both strategies 
 - [ ] Include Fees (Currently Assuming Wealthsimple)
 - [ ] Compare Against other intervals of investment with same amount (instead of $10 daily consider $50 every monday)
 - [ ] Verify that there isnt any weekend trading
-- [ ] 
+
 ## Contribution
 
 Feel free to fork this repository and submit pull requests for improvements or bug fixes. For significant changes, please open an issue first to discuss what you would like to change.
