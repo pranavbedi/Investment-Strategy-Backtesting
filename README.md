@@ -49,6 +49,11 @@ The script will output a plot comparing the portfolio values of both strategies 
 - Ensure that the initial balance and daily investments are set to realistic values to reflect a typical investment scenario.
 - **Action Needed:** Set a realistic initial balance and confirm that daily investment logic aligns with the strategy.
 
+## Ideas:
+- [ ] Include Fees (Currently Assuming Wealthsimple)
+- [ ] Compare Against other intervals of investment with same amount (instead of $10 daily consider $50 every monday)
+- [ ] Verify that there isnt any weekend trading
+- [ ] 
 ## Contribution
 
 Feel free to fork this repository and submit pull requests for improvements or bug fixes. For significant changes, please open an issue first to discuss what you would like to change.
